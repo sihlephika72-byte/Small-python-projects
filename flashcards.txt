@@ -1,0 +1,4 @@
+Variable/A named container used to store data values in memory.
+Loop/A control flow structure used to repeat a block of code multiple times.
+Dictionary/A collection of key-value pairs used to store structured data.
+File_IO/The process of reading from and writing permanently to disk storage.
