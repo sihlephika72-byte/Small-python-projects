@@ -59,6 +59,7 @@ while True:
                             answer = input("Enter the correct term: ").lower()
                             if answer == term:
                                 print("Hooray, you got the answer correct this time around!!")
+                                break
                             else:
                                 print("You got the answer wrong for the second time, sorry\n"
                                       "you will have to move on to the next question")
@@ -84,7 +85,4 @@ while True:
         print(f'Please enter a valid option which is 1, 2, 3'
               f'{tu}')
         option = int(input("Enter your option: "))
-
-
-
 
