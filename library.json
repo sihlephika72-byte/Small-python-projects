@@ -1,0 +1,20 @@
+[
+    {
+        "Title": "Sofia the first",
+        "Author": "Craig Gerber",
+        "Status": "Read",
+        "Pages": 465
+    },
+    {
+        "Title": "Teen titians go!",
+        "Author": "Aaron Horvath & Michael Jelenic",
+        "Status": "Read",
+        "Pages": 123
+    },
+    {
+        "Title": "Regular show",
+        "Author": "J. G. Quintel",
+        "Status": "Unread",
+        "Pages": 234
+    }
+]

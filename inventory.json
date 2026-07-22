@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Pens",
+        "Category": "Stationary",
+        "Quantity": 12,
+        "Price per unit": 6.0
+    },
+    {
+        "Name": "Paper",
+        "Category": "Stationary",
+        "Quantity": 60,
+        "Price per unit": 2.0
+    },
+    {
+        "Name": "Coffee",
+        "Category": "Snacks",
+        "Quantity": 6,
+        "Price per unit": 67.0
+    }
+]
